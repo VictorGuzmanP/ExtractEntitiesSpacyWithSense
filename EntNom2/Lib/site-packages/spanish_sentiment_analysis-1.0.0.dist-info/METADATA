@@ -1,0 +1,17 @@
+Metadata-Version: 2.0
+Name: spanish-sentiment-analysis
+Version: 1.0.0
+Summary: A sentiment analysis classifier in spanish.
+Home-page: UNKNOWN
+Author: Elliot Hofman
+Author-email: elliot.hofman@gmail.com
+License: MIT
+Requires-Dist: marisa-trie
+Requires-Dist: nltk
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: sklearn
+
+Author : Elliot Hofman
+
+
